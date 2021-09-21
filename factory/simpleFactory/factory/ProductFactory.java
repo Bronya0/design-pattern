@@ -1,4 +1,8 @@
-package factory.simpleFactory;
+package factory.simpleFactory.factory;
+
+import factory.simpleFactory.book.Book1;
+import factory.simpleFactory.book.Book2;
+import factory.simpleFactory.book.Product;
 
 /**
  * Factory（工厂角色）：工厂角色即工厂类，它是简单工厂模式的核心，负责实现创建所有产品实例的内部逻辑；

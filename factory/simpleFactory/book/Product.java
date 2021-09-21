@@ -1,4 +1,4 @@
-package factory.simpleFactory;
+package factory.simpleFactory.book;
 
 /**
  * Product（抽象产品角色）：它是工厂类所创建的所有对象的父类，封装了各种产品对象的公有方法，它的引入将提高系统的灵活性，

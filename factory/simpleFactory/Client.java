@@ -1,5 +1,8 @@
 package factory.simpleFactory;
 
+import factory.simpleFactory.book.Product;
+import factory.simpleFactory.factory.ProductFactory;
+
 /**
  *
  */
